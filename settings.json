@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "RientjesSMP.aternos.me",
+    "port": 11949,
     "version": "",
     "try-creative": false
   },
